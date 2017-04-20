@@ -1,5 +1,5 @@
 """
-Cows & Bulls
+Cows & Bulls (game)
 
 Created on Thu Jan 12 22:39:31 2017
 
